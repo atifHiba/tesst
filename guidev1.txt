@@ -13,7 +13,8 @@
         "mrec_id_1": "mrec_id_1_value",
         "native_id_1": "demo-native-content-yandex",
         "open_app_id": "demo-appopenad-yandex",
-        "store_link": "demo-native-content-yandex"
+        "store_link": "demo-native-content-yandex",
+	"privacy": "local"
     },
     "guideData": [
         {
